@@ -1,4 +1,6 @@
+
 title = "TOML Example"
+# This is a comment and it should be ignored
 
 [owner]
 name = "Tom Preston Werner"
